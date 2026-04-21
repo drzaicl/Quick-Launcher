@@ -1,3 +1,4 @@
+<img width="594" height="428" alt="Appprntsc" src="https://github.com/user-attachments/assets/498515e7-b6a0-4ccf-8383-3bedef164302" />
 # 🚀 Quick Launcher
 
 A simple and powerful desktop application for launching multiple programs using custom profiles.
